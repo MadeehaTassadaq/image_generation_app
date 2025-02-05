@@ -15,7 +15,7 @@ A **Streamlit-based web app** implementing a **Diffusion Model** for image gener
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-
+git clone https://github.com/MadeehaTassadaq/image_generation_app.git
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
