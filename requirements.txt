@@ -1,0 +1,8 @@
+streamlit==1.39.0
+diffusers
+huggingface-hub==0.26.0
+python-dotenv==1.0.1
+numpy
+accelerate
+transformers
+torch
